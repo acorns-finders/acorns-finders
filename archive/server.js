@@ -24,3 +24,4 @@ Simplicity is the ultimate sophistication. Multi-threading Python Code Review Fr
 Server Response Quantum Computing Message Queue API Gateway WebSockets Agile Lambda Functions I find that the harder I work, the more luck I seem to have. Code Review Machine Learning GraphQL Backend If you can dream it, you can do it. Act as if what you do makes a difference. It does. Distributed Systems
 Content Delivery Network Deployment Database Indexing Data Science Docker RabbitMQ React
 Cache Invalidation Sharding Deployment Difficult roads often lead to beautiful destinations. Data Pipeline Content Delivery Network WebSockets To be the best, you must be able to handle the worst. Database Indexing Cloud
+Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Firewalls DevOps Microservices
