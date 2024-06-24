@@ -20,3 +20,4 @@ JavaScript React Event-driven Architecture Security Data Science Version Control
 Replica Set Data Pipeline RabbitMQ Container Orchestration Happiness is not something ready made. It comes from your own actions. JavaScript Pull Request React Monitoring Kubernetes Scalability
 Agile Artificial Intelligence Content Delivery Network Docker Code Review Simplicity is the ultimate sophistication. UX Optimization Cache Invalidation Message Queue
 Happiness is not something ready made. It comes from your own actions. Load Testing Python Frontend To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise.
+The only way to do great work is to love what you do. Load Balancing Great things never come from comfort zones. Performance Firewalls Stay hungry, stay foolish. Artificial Intelligence WebSockets
