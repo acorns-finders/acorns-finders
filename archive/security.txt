@@ -27,3 +27,4 @@ Event-driven Architecture Neural Networks Kubernetes Containerization Edge Compu
 Artificial Intelligence Load Balancing Python RabbitMQ Edge Computing JavaScript Scalability Success is how high you bounce when you hit bottom.
 React Kafka Microservices Don't be afraid to give up the good to go for the great. IoT Do what you love and the money will follow. Server Response UX Optimization Testing
 The only way to do great work is to love what you do. Scalability WebSockets Microservices Version Control Work hard in silence, let your success be your noise. Sharding Big Data
+Serverless Don't be afraid to give up the good to go for the great. Replica Set Docker Database Machine Learning Framework Deployment A/B Testing If you can dream it, you can do it. Dream big and dare to fail. Containerization
