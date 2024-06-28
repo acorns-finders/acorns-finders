@@ -20,3 +20,4 @@ Firewalls Kubernetes Algorithm Innovation distinguishes between a leader and a f
 Monitoring Performance Opportunities don't happen. You create them. Serverless Database Indexing Do what you love and the money will follow. OAuth Success is not in what you have, but who you are.
 React Parallel Processing Security Sharding Server Response Monitoring
 Automation Sharding Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Content Delivery Network Database Indexing Predictive Analytics Success doesn’t just find you. You have to go out and get it.
+Big Data I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Success is not in what you have, but who you are. Replica Set Deployment Edge Computing Event Sourcing Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Optimization Firewalls

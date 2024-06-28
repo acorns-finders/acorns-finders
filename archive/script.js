@@ -25,3 +25,4 @@ DevOps Python NLP Cloud Functions Edge Computing
 Data Pipeline Agile Docker IoT Opportunities don't happen. You create them. Pull Request Framework
 A/B Testing Predictive Analytics Event Sourcing Microservices CI/CD Work hard in silence, let your success be your noise. Great things never come from comfort zones. Database Indexing Kubernetes Act as if what you do makes a difference. It does.
 Logging Version Control IoT Python Cloud Functions Work hard in silence, let your success be your noise. DNS Routing Testing Performance
+Message Queue Neural Networks DNS Routing I find that the harder I work, the more luck I seem to have. Machine Learning CI/CD Dream big and dare to fail.
