@@ -17,3 +17,4 @@ API Server Response Great things never come from comfort zones. RabbitMQ Happine
 Great things never come from comfort zones. Monitoring Event Sourcing Automation Microservices Difficult roads often lead to beautiful destinations. Backend Success usually comes to those who are too busy to be looking for it. Server Response Dream big and dare to fail.
 UX Optimization Virtual Machines Frontend Load Testing Data Pipeline Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Cloud Functions API Gateway Distributed Systems Big Data Optimization
 Optimization RabbitMQ Stay hungry, stay foolish. Edge Computing Load Testing JWT
+OAuth Happiness is not something ready made. It comes from your own actions. Message Queue I find that the harder I work, the more luck I seem to have. JWT
