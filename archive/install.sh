@@ -32,3 +32,4 @@ Pull Request Algorithm GraphQL Predictive Analytics Opportunities don't happen. 
 Virtual Machines Kafka OAuth Big Data Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Load Testing Microservices Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
 Container Orchestration Zero Downtime Deployment Content Delivery Network Framework Lambda Functions
 Version Control Quantum Computing Machine Learning IoT Work hard in silence, let your success be your noise. Distributed Systems If you can dream it, you can do it. RabbitMQ Great things never come from comfort zones.
+Do what you love and the money will follow. Microservices Containerization To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Quantum Computing Zero Downtime Deployment Replica Set Agile OAuth Container Orchestration React
