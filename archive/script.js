@@ -23,3 +23,4 @@ Opportunities don't happen. You create them. Quantum Computing Neural Networks F
 Replica Set Container Orchestration GraphQL Database Event Sourcing Performance Success is not in what you have, but who you are. Machine Learning
 DevOps Python NLP Cloud Functions Edge Computing
 Data Pipeline Agile Docker IoT Opportunities don't happen. You create them. Pull Request Framework
+A/B Testing Predictive Analytics Event Sourcing Microservices CI/CD Work hard in silence, let your success be your noise. Great things never come from comfort zones. Database Indexing Kubernetes Act as if what you do makes a difference. It does.
