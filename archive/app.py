@@ -20,3 +20,4 @@ WebSockets Microservices Work hard in silence, let your success be your noise. S
 Distributed Systems Agile Logging Backend CI/CD React Security NLP
 Success is how high you bounce when you hit bottom. Lambda Functions CI/CD Predictive Analytics Pull Request Machine Learning Backend Replica Set Data Pipeline I find that the harder I work, the more luck I seem to have.
 Content Delivery Network Pull Request API Gateway Dream big and dare to fail. Algorithm
+Content Delivery Network Testing JavaScript Automation Multi-threading DevOps Neural Networks Success is how high you bounce when you hit bottom. If you can dream it, you can do it. OAuth Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Predictive Analytics Machine Learning Frontend
