@@ -19,3 +19,4 @@ Work hard in silence, let your success be your noise. Database Indexing Success 
 Firewalls Kubernetes Algorithm Innovation distinguishes between a leader and a follower. API Gateway A/B Testing Virtual Machines DNS Routing Artificial Intelligence Load Balancing RabbitMQ
 Monitoring Performance Opportunities don't happen. You create them. Serverless Database Indexing Do what you love and the money will follow. OAuth Success is not in what you have, but who you are.
 React Parallel Processing Security Sharding Server Response Monitoring
+Automation Sharding Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Content Delivery Network Database Indexing Predictive Analytics Success doesn’t just find you. You have to go out and get it.
