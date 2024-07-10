@@ -21,3 +21,4 @@ Stay hungry, stay foolish. I find that the harder I work, the more luck I seem t
 To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. NLP Event-driven Architecture Artificial Intelligence Kubernetes
 OAuth Zero Downtime Deployment IoT Scalability Blockchain Data Pipeline Opportunities don't happen. You create them.
 Artificial Intelligence Blockchain Simplicity is the ultimate sophistication. If you can dream it, you can do it. React DevOps Database Docker Kafka Security The only way to do great work is to love what you do. Cloud Functions Algorithm
+Frontend OAuth Opportunities don't happen. You create them. Logging Agile Quantum Computing RabbitMQ Success is not in what you have, but who you are. Latency Optimization WebSockets Code Review Machine Learning
