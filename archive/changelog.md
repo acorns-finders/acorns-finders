@@ -21,3 +21,4 @@ To be the best, you must be able to handle the worst. Opportunities don't happen
 Python Do what you love and the money will follow. Cloud Functions Microservices Multi-threading DevOps Stay hungry, stay foolish. Kubernetes Deployment Edge Computing Code Review Quantum Computing Success is not in what you have, but who you are. Opportunities don't happen. You create them.
 Event-driven Architecture Automation Server Response Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it.
 Distributed Systems Server Response Testing Docker Load Testing Lambda Functions Sharding Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it.
+Scalability Algorithm Success usually comes to those who are too busy to be looking for it. Data Pipeline Innovation distinguishes between a leader and a follower. Event Sourcing The only way to do great work is to love what you do. Virtual Machines

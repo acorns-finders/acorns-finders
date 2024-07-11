@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Code Review Micros
 Big Data CI/CD To be the best, you must be able to handle the worst. Pull Request Scalability Cloud Functions Database Indexing Framework Machine Learning Serverless DevOps
 Data Pipeline UX Optimization Optimization The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Multi-threading Edge Computing Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Latency Optimization Success is how high you bounce when you hit bottom. Cloud Database
 WebSockets Event Sourcing Framework Latency Optimization Cloud Functions API Gateway Success usually comes to those who are too busy to be looking for it. Machine Learning Parallel Processing Work hard in silence, let your success be your noise. A/B Testing
+Microservices Cloud Parallel Processing Data Science Deployment Kubernetes Docker
