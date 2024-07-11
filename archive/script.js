@@ -22,3 +22,4 @@ Firewalls Event Sourcing Lambda Functions Content Delivery Network Virtual Machi
 Opportunities don't happen. You create them. Quantum Computing Neural Networks Firewalls Load Balancing Frontend Microservices Sharding Security Container Orchestration JavaScript Performance Cloud Containerization Replica Set
 Replica Set Container Orchestration GraphQL Database Event Sourcing Performance Success is not in what you have, but who you are. Machine Learning
 DevOps Python NLP Cloud Functions Edge Computing
+Data Pipeline Agile Docker IoT Opportunities don't happen. You create them. Pull Request Framework
