@@ -19,3 +19,4 @@ Cloud Replica Set UX Optimization Success is not in what you have, but who you a
 WebSockets Microservices Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. A/B Testing
 Distributed Systems Agile Logging Backend CI/CD React Security NLP
 Success is how high you bounce when you hit bottom. Lambda Functions CI/CD Predictive Analytics Pull Request Machine Learning Backend Replica Set Data Pipeline I find that the harder I work, the more luck I seem to have.
+Content Delivery Network Pull Request API Gateway Dream big and dare to fail. Algorithm

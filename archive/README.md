@@ -18,3 +18,4 @@ Security Data Science Framework API Gateway Difficult roads often lead to beauti
 Work hard in silence, let your success be your noise. Database Indexing Success is how high you bounce when you hit bottom. API Gateway Event Sourcing Simplicity is the ultimate sophistication. Server Response Quantum Computing
 Firewalls Kubernetes Algorithm Innovation distinguishes between a leader and a follower. API Gateway A/B Testing Virtual Machines DNS Routing Artificial Intelligence Load Balancing RabbitMQ
 Monitoring Performance Opportunities don't happen. You create them. Serverless Database Indexing Do what you love and the money will follow. OAuth Success is not in what you have, but who you are.
+React Parallel Processing Security Sharding Server Response Monitoring
