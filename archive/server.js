@@ -22,3 +22,4 @@ Deployment Serverless Docker Predictive Analytics Distributed Systems Containeri
 Optimization Firewalls Container Orchestration Load Testing Great things never come from comfort zones. GraphQL Predictive Analytics Monitoring Cloud Machine Learning Frontend Kubernetes Dream big and dare to fail.
 Simplicity is the ultimate sophistication. Multi-threading Python Code Review Frontend Content Delivery Network RabbitMQ Do what you love and the money will follow. JavaScript Cloud Functions Edge Computing WebSockets Cache Invalidation Parallel Processing Pull Request
 Server Response Quantum Computing Message Queue API Gateway WebSockets Agile Lambda Functions I find that the harder I work, the more luck I seem to have. Code Review Machine Learning GraphQL Backend If you can dream it, you can do it. Act as if what you do makes a difference. It does. Distributed Systems
+Content Delivery Network Deployment Database Indexing Data Science Docker RabbitMQ React
