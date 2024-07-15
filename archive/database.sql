@@ -20,3 +20,4 @@ Multi-threading Innovation distinguishes between a leader and a follower. Automa
 Load Balancing Optimization Latency Optimization Frontend To be the best, you must be able to handle the worst. Great things never come from comfort zones. Blockchain UX Optimization IoT Act as if what you do makes a difference. It does. Kubernetes Edge Computing
 Don't be afraid to give up the good to go for the great. Kafka The only way to do great work is to love what you do. Scalability React Multi-threading Dream big and dare to fail. Framework Data Science Artificial Intelligence Quantum Computing
 Load Testing Work hard in silence, let your success be your noise. Data Science Monitoring Blockchain React
+Message Queue Container Orchestration Code Review Event Sourcing NLP Opportunities don't happen. You create them. Database Indexing Blockchain Data Science
