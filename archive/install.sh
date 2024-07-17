@@ -30,3 +30,4 @@ Act as if what you do makes a difference. It does. Difficult roads often lead to
 Opportunities don't happen. You create them. Virtual Machines Dream big and dare to fail. If you can dream it, you can do it. OAuth
 Pull Request Algorithm GraphQL Predictive Analytics Opportunities don't happen. You create them. Stay hungry, stay foolish. Blockchain To be the best, you must be able to handle the worst. Monitoring React Cloud Functions Code Review Distributed Systems Microservices
 Virtual Machines Kafka OAuth Big Data Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Load Testing Microservices Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it.
+Container Orchestration Zero Downtime Deployment Content Delivery Network Framework Lambda Functions
