@@ -19,3 +19,4 @@ IoT Data Pipeline To be the best, you must be able to handle the worst. If you c
 Big Data Don't be afraid to give up the good to go for the great. Logging Kubernetes Do what you love and the money will follow. OAuth Edge Computing
 Database Security Act as if what you do makes a difference. It does. Deployment DNS Routing Kafka Data Pipeline Replica Set Big Data
 IoT Code Review Pull Request Virtual Machines Container Orchestration To be the best, you must be able to handle the worst. React Kubernetes Edge Computing DNS Routing Logging Difficult roads often lead to beautiful destinations. Message Queue Scalability Event-driven Architecture
+Containerization Logging Load Balancing Backend Predictive Analytics API Virtual Machines Happiness is not something ready made. It comes from your own actions. Database
