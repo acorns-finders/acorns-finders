@@ -21,3 +21,4 @@ Predictive Analytics Event Sourcing Virtual Machines Cloud I find that the harde
 Firewalls Event Sourcing Lambda Functions Content Delivery Network Virtual Machines The only way to do great work is to love what you do. Sharding Machine Learning Optimization Quantum Computing Event-driven Architecture Performance NLP Neural Networks
 Opportunities don't happen. You create them. Quantum Computing Neural Networks Firewalls Load Balancing Frontend Microservices Sharding Security Container Orchestration JavaScript Performance Cloud Containerization Replica Set
 Replica Set Container Orchestration GraphQL Database Event Sourcing Performance Success is not in what you have, but who you are. Machine Learning
+DevOps Python NLP Cloud Functions Edge Computing
