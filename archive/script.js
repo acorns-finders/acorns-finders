@@ -20,3 +20,4 @@ Data Science Containerization Testing Replica Set Performance I find that the ha
 Predictive Analytics Event Sourcing Virtual Machines Cloud I find that the harder I work, the more luck I seem to have. API Gateway GraphQL DNS Routing Machine Learning Content Delivery Network Container Orchestration Data Science
 Firewalls Event Sourcing Lambda Functions Content Delivery Network Virtual Machines The only way to do great work is to love what you do. Sharding Machine Learning Optimization Quantum Computing Event-driven Architecture Performance NLP Neural Networks
 Opportunities don't happen. You create them. Quantum Computing Neural Networks Firewalls Load Balancing Frontend Microservices Sharding Security Container Orchestration JavaScript Performance Cloud Containerization Replica Set
+Replica Set Container Orchestration GraphQL Database Event Sourcing Performance Success is not in what you have, but who you are. Machine Learning
