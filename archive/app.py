@@ -18,3 +18,4 @@ Lambda Functions Pull Request The only way to do great work is to love what you 
 Cloud Replica Set UX Optimization Success is not in what you have, but who you are. Lambda Functions IoT Success is how high you bounce when you hit bottom. JWT Automation Happiness is not something ready made. It comes from your own actions.
 WebSockets Microservices Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. A/B Testing
 Distributed Systems Agile Logging Backend CI/CD React Security NLP
+Success is how high you bounce when you hit bottom. Lambda Functions CI/CD Predictive Analytics Pull Request Machine Learning Backend Replica Set Data Pipeline I find that the harder I work, the more luck I seem to have.
