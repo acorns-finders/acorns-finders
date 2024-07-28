@@ -18,3 +18,4 @@ Cloud Functions Great things never come from comfort zones. Happiness is not som
 Success is how high you bounce when you hit bottom. Firewalls Version Control Scalability Zero Downtime Deployment Optimization Opportunities don't happen. You create them. Agile Security Cloud Functions
 Data Science Containerization Testing Replica Set Performance I find that the harder I work, the more luck I seem to have. IoT Act as if what you do makes a difference. It does.
 Predictive Analytics Event Sourcing Virtual Machines Cloud I find that the harder I work, the more luck I seem to have. API Gateway GraphQL DNS Routing Machine Learning Content Delivery Network Container Orchestration Data Science
+Firewalls Event Sourcing Lambda Functions Content Delivery Network Virtual Machines The only way to do great work is to love what you do. Sharding Machine Learning Optimization Quantum Computing Event-driven Architecture Performance NLP Neural Networks
