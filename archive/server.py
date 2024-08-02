@@ -16,3 +16,4 @@ React Data Pipeline NLP Work hard in silence, let your success be your noise. CI
 Event Sourcing GraphQL Do what you love and the money will follow. Latency Optimization Cloud Functions Optimization
 Docker Optimization Database Innovation distinguishes between a leader and a follower. Replica Set Edge Computing DNS Routing JavaScript Lambda Functions React Automation Frontend
 Algorithm Do what you love and the money will follow. Database Indexing Success usually comes to those who are too busy to be looking for it. CI/CD React OAuth RabbitMQ A/B Testing NLP Data Pipeline
+Virtual Machines Load Testing Message Queue Event-driven Architecture RabbitMQ Neural Networks Stay hungry, stay foolish. GraphQL Success is not in what you have, but who you are. Distributed Systems
