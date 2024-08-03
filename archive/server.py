@@ -15,3 +15,4 @@ Innovation distinguishes between a leader and a follower. Monitoring DevOps Drea
 React Data Pipeline NLP Work hard in silence, let your success be your noise. CI/CD Virtual Machines Version Control Success is how high you bounce when you hit bottom. Scalability Containerization Parallel Processing Cloud Functions Success usually comes to those who are too busy to be looking for it.
 Event Sourcing GraphQL Do what you love and the money will follow. Latency Optimization Cloud Functions Optimization
 Docker Optimization Database Innovation distinguishes between a leader and a follower. Replica Set Edge Computing DNS Routing JavaScript Lambda Functions React Automation Frontend
+Algorithm Do what you love and the money will follow. Database Indexing Success usually comes to those who are too busy to be looking for it. CI/CD React OAuth RabbitMQ A/B Testing NLP Data Pipeline
