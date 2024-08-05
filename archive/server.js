@@ -19,3 +19,4 @@ I find that the harder I work, the more luck I seem to have. Sharding Opportunit
 Database Content Delivery Network Performance Kafka Blockchain API Machine Learning Edge Computing Zero Downtime Deployment Success is not in what you have, but who you are. Dream big and dare to fail. Docker API Gateway Backend Virtual Machines
 NLP Database React Sharding Server Response Success is how high you bounce when you hit bottom. Kubernetes
 Deployment Serverless Docker Predictive Analytics Distributed Systems Containerization Firewalls Virtual Machines Neural Networks
+Optimization Firewalls Container Orchestration Load Testing Great things never come from comfort zones. GraphQL Predictive Analytics Monitoring Cloud Machine Learning Frontend Kubernetes Dream big and dare to fail.
