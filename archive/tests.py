@@ -17,3 +17,4 @@ Machine Learning Testing RabbitMQ Deployment JWT Serverless Kubernetes Version C
 Work hard in silence, let your success be your noise. Docker CI/CD API NLP UX Optimization Testing Distributed Systems React
 Database Indexing Optimization DevOps Zero Downtime Deployment Simplicity is the ultimate sophistication. JWT
 JavaScript React Event-driven Architecture Security Data Science Version Control Monitoring Machine Learning UX Optimization Frontend If you can dream it, you can do it.
+Replica Set Data Pipeline RabbitMQ Container Orchestration Happiness is not something ready made. It comes from your own actions. JavaScript Pull Request React Monitoring Kubernetes Scalability
