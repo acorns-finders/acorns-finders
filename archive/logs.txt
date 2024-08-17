@@ -13,3 +13,4 @@ UX Optimization Don't be afraid to give up the good to go for the great. Opportu
 Automation Difficult roads often lead to beautiful destinations. Logging Database Do what you love and the money will follow. React Event-driven Architecture Artificial Intelligence
 Big Data Monitoring Kafka IoT Success usually comes to those who are too busy to be looking for it. Cloud Success is not in what you have, but who you are. UX Optimization Edge Computing DNS Routing Load Balancing DevOps Neural Networks Framework
 Big Data Neural Networks Great things never come from comfort zones. OAuth Monitoring The only way to do great work is to love what you do. DNS Routing Cloud Functions Microservices UX Optimization Python
+Difficult roads often lead to beautiful destinations. Optimization Algorithm Kafka Success is not in what you have, but who you are. Backend Database Indexing React Agile Cloud To be the best, you must be able to handle the worst. Quantum Computing
