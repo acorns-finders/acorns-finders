@@ -17,3 +17,4 @@ Parallel Processing Success usually comes to those who are too busy to be lookin
 Lambda Functions Pull Request The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Load Testing
 Cloud Replica Set UX Optimization Success is not in what you have, but who you are. Lambda Functions IoT Success is how high you bounce when you hit bottom. JWT Automation Happiness is not something ready made. It comes from your own actions.
 WebSockets Microservices Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. A/B Testing
+Distributed Systems Agile Logging Backend CI/CD React Security NLP

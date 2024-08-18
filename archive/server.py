@@ -13,3 +13,4 @@ DNS Routing Data Pipeline WebSockets Firewalls Zero Downtime Deployment Docker I
 Agile Event-driven Architecture Big Data Algorithm Logging Artificial Intelligence
 Innovation distinguishes between a leader and a follower. Monitoring DevOps Dream big and dare to fail. Load Testing Zero Downtime Deployment Event Sourcing Algorithm Database Indexing Scalability Frontend Parallel Processing Sharding DNS Routing
 React Data Pipeline NLP Work hard in silence, let your success be your noise. CI/CD Virtual Machines Version Control Success is how high you bounce when you hit bottom. Scalability Containerization Parallel Processing Cloud Functions Success usually comes to those who are too busy to be looking for it.
+Event Sourcing GraphQL Do what you love and the money will follow. Latency Optimization Cloud Functions Optimization
