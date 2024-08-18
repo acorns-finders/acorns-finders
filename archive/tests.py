@@ -16,3 +16,4 @@ Zero Downtime Deployment Predictive Analytics Quantum Computing Kubernetes To be
 Machine Learning Testing RabbitMQ Deployment JWT Serverless Kubernetes Version Control Predictive Analytics Great things never come from comfort zones. Do what you love and the money will follow.
 Work hard in silence, let your success be your noise. Docker CI/CD API NLP UX Optimization Testing Distributed Systems React
 Database Indexing Optimization DevOps Zero Downtime Deployment Simplicity is the ultimate sophistication. JWT
+JavaScript React Event-driven Architecture Security Data Science Version Control Monitoring Machine Learning UX Optimization Frontend If you can dream it, you can do it.
