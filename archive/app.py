@@ -15,3 +15,4 @@ Innovation distinguishes between a leader and a follower. Big Data A/B Testing C
 Agile Container Orchestration WebSockets OAuth Automation Monitoring Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Big Data Kubernetes
 Parallel Processing Success usually comes to those who are too busy to be looking for it. Optimization Don't be afraid to give up the good to go for the great. React Quantum Computing Firewalls Monitoring
 Lambda Functions Pull Request The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Load Testing
+Cloud Replica Set UX Optimization Success is not in what you have, but who you are. Lambda Functions IoT Success is how high you bounce when you hit bottom. JWT Automation Happiness is not something ready made. It comes from your own actions.
