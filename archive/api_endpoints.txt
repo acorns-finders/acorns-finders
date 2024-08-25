@@ -7,3 +7,4 @@ To be the best, you must be able to handle the worst. Multi-threading OAuth Pred
 Logging Do what you love and the money will follow. Data Science Quantum Computing Predictive Analytics CI/CD React OAuth Firewalls
 OAuth Cloud Functions Stay hungry, stay foolish. Virtual Machines Multi-threading Don't be afraid to give up the good to go for the great. Algorithm Optimization Load Balancing If you can dream it, you can do it. Backend Monitoring
 Backend Frontend Docker Firewalls CI/CD Data Science GraphQL RabbitMQ Difficult roads often lead to beautiful destinations. Blockchain Microservices Load Balancing Optimization Success is not in what you have, but who you are.
+Python I find that the harder I work, the more luck I seem to have. Cache Invalidation Neural Networks Simplicity is the ultimate sophistication. UX Optimization Stay hungry, stay foolish. Algorithm WebSockets Artificial Intelligence Opportunities don't happen. You create them. Testing Quantum Computing

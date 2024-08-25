@@ -18,3 +18,4 @@ DNS Routing Load Testing Pull Request Simplicity is the ultimate sophistication.
 RabbitMQ Act as if what you do makes a difference. It does. Automation Edge Computing Great things never come from comfort zones. CI/CD Artificial Intelligence
 Stay hungry, stay foolish. Cloud Functions Big Data Dream big and dare to fail. Deployment
 To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Edge Computing Parallel Processing Neural Networks Framework Stay hungry, stay foolish. API Gateway Firewalls Containerization Replica Set Kubernetes Act as if what you do makes a difference. It does. JavaScript
+Python Do what you love and the money will follow. Cloud Functions Microservices Multi-threading DevOps Stay hungry, stay foolish. Kubernetes Deployment Edge Computing Code Review Quantum Computing Success is not in what you have, but who you are. Opportunities don't happen. You create them.
