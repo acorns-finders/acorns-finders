@@ -18,3 +18,4 @@ Simplicity is the ultimate sophistication. WebSockets Container Orchestration Ar
 I find that the harder I work, the more luck I seem to have. Sharding Opportunities don't happen. You create them. Virtual Machines Work hard in silence, let your success be your noise. Dream big and dare to fail. Load Balancing UX Optimization Pull Request Parallel Processing Multi-threading
 Database Content Delivery Network Performance Kafka Blockchain API Machine Learning Edge Computing Zero Downtime Deployment Success is not in what you have, but who you are. Dream big and dare to fail. Docker API Gateway Backend Virtual Machines
 NLP Database React Sharding Server Response Success is how high you bounce when you hit bottom. Kubernetes
+Deployment Serverless Docker Predictive Analytics Distributed Systems Containerization Firewalls Virtual Machines Neural Networks
