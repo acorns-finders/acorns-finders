@@ -14,3 +14,4 @@ Content Delivery Network Testing Framework Docker Happiness is not something rea
 Innovation distinguishes between a leader and a follower. Big Data A/B Testing Containerization JWT Success usually comes to those who are too busy to be looking for it. Algorithm Container Orchestration Difficult roads often lead to beautiful destinations. API Gateway
 Agile Container Orchestration WebSockets OAuth Automation Monitoring Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Big Data Kubernetes
 Parallel Processing Success usually comes to those who are too busy to be looking for it. Optimization Don't be afraid to give up the good to go for the great. React Quantum Computing Firewalls Monitoring
+Lambda Functions Pull Request The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Dream big and dare to fail. Load Testing
