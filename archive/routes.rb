@@ -14,3 +14,4 @@ Work hard in silence, let your success be your noise. The only way to do great w
 IoT Logging Monitoring Cloud Functions Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Server Response JWT Scalability Opportunities don't happen. You create them. Containerization Framework CI/CD
 Automation React Container Orchestration Version Control Act as if what you do makes a difference. It does. Kafka
 The only way to do great work is to love what you do. Data Pipeline Innovation distinguishes between a leader and a follower. Cache Invalidation Database Indexing UX Optimization Edge Computing Event Sourcing Happiness is not something ready made. It comes from your own actions. Kubernetes Serverless
+Server Response Stay hungry, stay foolish. DevOps Neural Networks Cloud Zero Downtime Deployment API Database Indexing Automation Serverless Latency Optimization Load Balancing OAuth The only way to do great work is to love what you do. Cloud Functions
