@@ -13,3 +13,4 @@ Docker Deployment Big Data Cloud Act as if what you do makes a difference. It do
 Agile DNS Routing Containerization Predictive Analytics Great things never come from comfort zones. Serverless Backend
 API Automation Artificial Intelligence Optimization Success is how high you bounce when you hit bottom. Content Delivery Network Firewalls Version Control Container Orchestration Data Pipeline Security
 DNS Routing Data Science Data Pipeline Replica Set Automation Load Balancing Machine Learning Event-driven Architecture RabbitMQ To be the best, you must be able to handle the worst. Sharding Edge Computing Event Sourcing React
+Edge Computing Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Load Testing Database If you can dream it, you can do it. The only way to do great work is to love what you do. Framework Sharding Success usually comes to those who are too busy to be looking for it. NLP
