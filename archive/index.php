@@ -7,3 +7,4 @@ Database Success is how high you bounce when you hit bottom. Success doesn’t jus
 Logging Version Control Deployment Data Pipeline DNS Routing OAuth NLP Optimization Database Indexing Serverless
 Performance Firewalls Python Multi-threading Dream big and dare to fail. Event-driven Architecture Code Review
 Code Review Event Sourcing A/B Testing To be the best, you must be able to handle the worst. Latency Optimization Success is not in what you have, but who you are. WebSockets Kafka Framework
+Success is not in what you have, but who you are. Version Control Event Sourcing Difficult roads often lead to beautiful destinations. DNS Routing Great things never come from comfort zones. CI/CD Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Code Review Blockchain Framework
