@@ -23,3 +23,4 @@ Python Performance Cloud Functions Framework Database Backend NLP Innovation dis
 Data Science Opportunities don't happen. You create them. Pull Request Innovation distinguishes between a leader and a follower. WebSockets Edge Computing
 RabbitMQ DevOps Load Testing If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Container Orchestration The only way to do great work is to love what you do. Virtual Machines UX Optimization Database Indexing Firewalls Agile Microservices
 Big Data Message Queue DevOps Event Sourcing CI/CD Quantum Computing Distributed Systems Opportunities don't happen. You create them. Multi-threading Version Control Firewalls Logging Cache Invalidation
+Blockchain Event-driven Architecture Artificial Intelligence Python RabbitMQ Zero Downtime Deployment Great things never come from comfort zones. Do what you love and the money will follow. Predictive Analytics Data Pipeline
