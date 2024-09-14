@@ -12,3 +12,4 @@ I find that the harder I work, the more luck I seem to have. Microservices Don't
 Container Orchestration GraphQL Act as if what you do makes a difference. It does. Logging WebSockets Backend If you can dream it, you can do it. Artificial Intelligence Cloud Functions Server Response
 Opportunities don't happen. You create them. Sharding Monitoring Scalability Container Orchestration Security API Gateway DevOps JWT Backend Dream big and dare to fail. Artificial Intelligence OAuth If you can dream it, you can do it.
 Parallel Processing Agile RabbitMQ Load Testing Code Review Testing Replica Set Performance Python Latency Optimization Cloud Functions Machine Learning Zero Downtime Deployment Success is how high you bounce when you hit bottom. GraphQL
+Server Response Stay hungry, stay foolish. Machine Learning Quantum Computing DevOps Message Queue
