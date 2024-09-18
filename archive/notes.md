@@ -9,3 +9,4 @@ Kafka Lambda Functions JavaScript Database Indexing Neural Networks To be the be
 Python Content Delivery Network The only way to do great work is to love what you do. Edge Computing Kafka I find that the harder I work, the more luck I seem to have. Replica Set Big Data
 Security Dream big and dare to fail. Latency Optimization Success usually comes to those who are too busy to be looking for it. Microservices WebSockets Monitoring Success doesn’t just find you. You have to go out and get it. Data Science Success is how high you bounce when you hit bottom. DevOps JWT Database Indexing Backend
 Data Science JWT Serverless Load Testing Database Indexing Replica Set Don't be afraid to give up the good to go for the great. OAuth Python Simplicity is the ultimate sophistication. Blockchain UX Optimization
+Multi-threading GraphQL Cache Invalidation Artificial Intelligence If you can dream it, you can do it. UX Optimization RabbitMQ Kubernetes
