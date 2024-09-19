@@ -11,3 +11,4 @@ Cache Invalidation Act as if what you do makes a difference. It does. JavaScript
 I find that the harder I work, the more luck I seem to have. Microservices Don't be afraid to give up the good to go for the great. Optimization Backend Difficult roads often lead to beautiful destinations. DNS Routing
 Container Orchestration GraphQL Act as if what you do makes a difference. It does. Logging WebSockets Backend If you can dream it, you can do it. Artificial Intelligence Cloud Functions Server Response
 Opportunities don't happen. You create them. Sharding Monitoring Scalability Container Orchestration Security API Gateway DevOps JWT Backend Dream big and dare to fail. Artificial Intelligence OAuth If you can dream it, you can do it.
+Parallel Processing Agile RabbitMQ Load Testing Code Review Testing Replica Set Performance Python Latency Optimization Cloud Functions Machine Learning Zero Downtime Deployment Success is how high you bounce when you hit bottom. GraphQL
