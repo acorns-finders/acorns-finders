@@ -16,3 +16,4 @@ If you can dream it, you can do it. Zero Downtime Deployment API Gateway Opportu
 Big Data Multi-threading A/B Testing Docker Monitoring Security Simplicity is the ultimate sophistication. UX Optimization Work hard in silence, let your success be your noise. Version Control Innovation distinguishes between a leader and a follower.
 DNS Routing Load Testing Pull Request Simplicity is the ultimate sophistication. Cloud Functions Data Pipeline A/B Testing Zero Downtime Deployment Deployment
 RabbitMQ Act as if what you do makes a difference. It does. Automation Edge Computing Great things never come from comfort zones. CI/CD Artificial Intelligence
+Stay hungry, stay foolish. Cloud Functions Big Data Dream big and dare to fail. Deployment
