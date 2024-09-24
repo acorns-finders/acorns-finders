@@ -14,3 +14,4 @@ A/B Testing API Gateway Load Balancing Lambda Functions Deployment Firewalls JWT
 Microservices Distributed Systems API Framework A/B Testing Simplicity is the ultimate sophistication. Security NLP Firewalls JavaScript Success doesn’t just find you. You have to go out and get it.
 Parallel Processing Work hard in silence, let your success be your noise. Neural Networks Big Data Containerization Quantum Computing
 Kubernetes Frontend DevOps OAuth JWT Content Delivery Network Event-driven Architecture Blockchain JavaScript Message Queue Machine Learning
+Simplicity is the ultimate sophistication. WebSockets Container Orchestration Artificial Intelligence A/B Testing Neural Networks Latency Optimization Event-driven Architecture Database Indexing Do what you love and the money will follow. Automation Cache Invalidation Testing Docker API Gateway
