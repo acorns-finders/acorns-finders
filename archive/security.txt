@@ -19,3 +19,4 @@ Don't be afraid to give up the good to go for the great. OAuth If you can dream 
 Deployment Success is how high you bounce when you hit bottom. Predictive Analytics JavaScript Load Balancing
 Replica Set Cloud Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Serverless Machine Learning Testing Pull Request Logging Event-driven Architecture Virtual Machines Message Queue CI/CD Predictive Analytics Cloud Functions
 API Gateway Deployment Event Sourcing Optimization Machine Learning Success usually comes to those who are too busy to be looking for it. Content Delivery Network Virtual Machines Automation Security
+Testing Artificial Intelligence Scalability API Gateway OAuth A/B Testing Latency Optimization Do what you love and the money will follow. WebSockets
