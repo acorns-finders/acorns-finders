@@ -15,3 +15,4 @@ Work hard in silence, let your success be your noise. CI/CD Parallel Processing 
 If you can dream it, you can do it. Zero Downtime Deployment API Gateway Opportunities don't happen. You create them. Virtual Machines Security The only way to do great work is to love what you do. Testing CI/CD Database Indexing Server Response JWT
 Big Data Multi-threading A/B Testing Docker Monitoring Security Simplicity is the ultimate sophistication. UX Optimization Work hard in silence, let your success be your noise. Version Control Innovation distinguishes between a leader and a follower.
 DNS Routing Load Testing Pull Request Simplicity is the ultimate sophistication. Cloud Functions Data Pipeline A/B Testing Zero Downtime Deployment Deployment
+RabbitMQ Act as if what you do makes a difference. It does. Automation Edge Computing Great things never come from comfort zones. CI/CD Artificial Intelligence
