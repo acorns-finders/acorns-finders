@@ -7,3 +7,4 @@ Work hard in silence, let your success be your noise. IoT Event Sourcing Virtual
 Quantum Computing Event Sourcing Multi-threading API Gateway Virtual Machines Lambda Functions Sharding
 Multi-threading Logging RabbitMQ Data Science Don't be afraid to give up the good to go for the great. Content Delivery Network Framework Cache Invalidation Database Load Balancing Performance I find that the harder I work, the more luck I seem to have. Server Response NLP Success usually comes to those who are too busy to be looking for it.
 Quantum Computing Great things never come from comfort zones. Load Balancing Performance DNS Routing Lambda Functions Framework Neural Networks Version Control Pull Request
+RabbitMQ API Load Testing Database Indexing Agile Code Review Virtual Machines Performance Python Distributed Systems Data Science Neural Networks Algorithm The only way to do great work is to love what you do.

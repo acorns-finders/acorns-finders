@@ -4,3 +4,4 @@ Distributed Systems Monitoring Success is not in what you have, but who you are.
 Difficult roads often lead to beautiful destinations. Cloud DevOps Simplicity is the ultimate sophistication. Pull Request Framework Automation OAuth Neural Networks Content Delivery Network Load Balancing Kafka
 DNS Routing Virtual Machines Work hard in silence, let your success be your noise. API Scalability Cache Invalidation OAuth
 To be the best, you must be able to handle the worst. Multi-threading OAuth Predictive Analytics Stay hungry, stay foolish. Scalability Event-driven Architecture Success is how high you bounce when you hit bottom.
+Logging Do what you love and the money will follow. Data Science Quantum Computing Predictive Analytics CI/CD React OAuth Firewalls
