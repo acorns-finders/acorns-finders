@@ -8,3 +8,4 @@ To be the best, you must be able to handle the worst. Framework Big Data Contain
 Container Orchestration Agile Big Data Serverless Version Control Success is how high you bounce when you hit bottom. Neural Networks
 DNS Routing Monitoring Multi-threading Parallel Processing Dream big and dare to fail. Cloud Machine Learning JWT Big Data NLP Serverless
 Performance Monitoring JWT Algorithm Server Response Distributed Systems Docker Success is how high you bounce when you hit bottom. Sharding Work hard in silence, let your success be your noise. Zero Downtime Deployment Testing Kubernetes
+OAuth Innovation distinguishes between a leader and a follower. Pull Request Data Pipeline Event-driven Architecture Latency Optimization Stay hungry, stay foolish. UX Optimization Frontend Happiness is not something ready made. It comes from your own actions. Deployment
