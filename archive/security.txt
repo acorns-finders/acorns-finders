@@ -17,3 +17,4 @@ Virtual Machines Data Pipeline Version Control IoT Server Response Innovation di
 Pull Request Lambda Functions Kafka Cache Invalidation Distributed Systems Great things never come from comfort zones. Load Testing Dream big and dare to fail. Database NLP JWT Big Data
 Don't be afraid to give up the good to go for the great. OAuth If you can dream it, you can do it. Code Review Artificial Intelligence Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Automation Algorithm Performance Testing
 Deployment Success is how high you bounce when you hit bottom. Predictive Analytics JavaScript Load Balancing
+Replica Set Cloud Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Serverless Machine Learning Testing Pull Request Logging Event-driven Architecture Virtual Machines Message Queue CI/CD Predictive Analytics Cloud Functions

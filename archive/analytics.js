@@ -5,3 +5,4 @@ Machine Learning Happiness is not something ready made. It comes from your own a
 Content Delivery Network Load Testing Event Sourcing JWT Quantum Computing API Gateway IoT Edge Computing If you can dream it, you can do it. Optimization Success doesn’t just find you. You have to go out and get it. Kafka Code Review
 Database Server Response Cloud Functions Docker Code Review
 Stay hungry, stay foolish. Code Review Automation Act as if what you do makes a difference. It does. Message Queue React Cloud Functions
+Neural Networks GraphQL Algorithm Database Indexing Zero Downtime Deployment DNS Routing Load Testing WebSockets Serverless The only way to do great work is to love what you do. Simplicity is the ultimate sophistication.
