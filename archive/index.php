@@ -5,3 +5,4 @@ Cloud Functions Dream big and dare to fail. Innovation distinguishes between a l
 Frontend Dream big and dare to fail. JWT Microservices Kafka Big Data Data Science
 Database Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Data Science Multi-threading Monitoring Frontend Framework Algorithm
 Logging Version Control Deployment Data Pipeline DNS Routing OAuth NLP Optimization Database Indexing Serverless
+Performance Firewalls Python Multi-threading Dream big and dare to fail. Event-driven Architecture Code Review
