@@ -16,3 +16,4 @@ Happiness is not something ready made. It comes from your own actions. Kafka Zer
 I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Python To be the best, you must be able to handle the worst. React Deployment GraphQL
 Sharding Do what you love and the money will follow. The only way to do great work is to love what you do. Predictive Analytics DevOps
 Multi-threading Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. If you can dream it, you can do it. Event Sourcing Scalability NLP JWT
+Containerization I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Cache Invalidation Backend Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Big Data Agile
