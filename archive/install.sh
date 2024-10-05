@@ -21,3 +21,4 @@ If you can dream it, you can do it. Do what you love and the money will follow. 
 React CI/CD Data Science Kafka Testing Success is not in what you have, but who you are. OAuth DNS Routing Event Sourcing Neural Networks Replica Set Version Control A/B Testing I find that the harder I work, the more luck I seem to have. Blockchain
 Python Performance Cloud Functions Framework Database Backend NLP Innovation distinguishes between a leader and a follower. Distributed Systems Artificial Intelligence
 Data Science Opportunities don't happen. You create them. Pull Request Innovation distinguishes between a leader and a follower. WebSockets Edge Computing
+RabbitMQ DevOps Load Testing If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Container Orchestration The only way to do great work is to love what you do. Virtual Machines UX Optimization Database Indexing Firewalls Agile Microservices

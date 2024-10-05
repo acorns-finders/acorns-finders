@@ -10,3 +10,4 @@ Replica Set Difficult roads often lead to beautiful destinations. Virtual Machin
 Deployment API Big Data DevOps Performance Cloud Multi-threading Lambda Functions
 CI/CD Dream big and dare to fail. Cloud Functions Microservices Distributed Systems Zero Downtime Deployment Virtual Machines A/B Testing
 Optimization Pull Request Simplicity is the ultimate sophistication. JWT To be the best, you must be able to handle the worst. Logging RabbitMQ Serverless JavaScript Data Pipeline Opportunities don't happen. You create them.
+Work hard in silence, let your success be your noise. The only way to do great work is to love what you do. Python GraphQL To be the best, you must be able to handle the worst. React Opportunities don't happen. You create them. Scalability Zero Downtime Deployment Stay hungry, stay foolish. API Gateway Cache Invalidation Frontend
