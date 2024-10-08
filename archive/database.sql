@@ -10,3 +10,4 @@ OAuth Serverless Docker Opportunities don't happen. You create them. CI/CD Happi
 WebSockets RabbitMQ Great things never come from comfort zones. Data Pipeline I find that the harder I work, the more luck I seem to have. Deployment Logging Cache Invalidation Blockchain
 Innovation distinguishes between a leader and a follower. Edge Computing Framework Docker Event Sourcing
 Docker Deployment Big Data Cloud Act as if what you do makes a difference. It does. A/B Testing Replica Set I find that the harder I work, the more luck I seem to have. DevOps Dream big and dare to fail. Artificial Intelligence Content Delivery Network Opportunities don't happen. You create them. Work hard in silence, let your success be your noise.
+Agile DNS Routing Containerization Predictive Analytics Great things never come from comfort zones. Serverless Backend

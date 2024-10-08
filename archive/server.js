@@ -13,3 +13,4 @@ A/B Testing Database Indexing Security Latency Optimization Microservices Neural
 A/B Testing API Gateway Load Balancing Lambda Functions Deployment Firewalls JWT Kafka Innovation distinguishes between a leader and a follower.
 Microservices Distributed Systems API Framework A/B Testing Simplicity is the ultimate sophistication. Security NLP Firewalls JavaScript Success doesn’t just find you. You have to go out and get it.
 Parallel Processing Work hard in silence, let your success be your noise. Neural Networks Big Data Containerization Quantum Computing
+Kubernetes Frontend DevOps OAuth JWT Content Delivery Network Event-driven Architecture Blockchain JavaScript Message Queue Machine Learning
