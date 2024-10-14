@@ -7,3 +7,4 @@ Success is not in what you have, but who you are. OAuth Opportunities don't happ
 RabbitMQ Frontend Data Pipeline Performance Dream big and dare to fail. Docker Great things never come from comfort zones.
 Kafka Lambda Functions JavaScript Database Indexing Neural Networks To be the best, you must be able to handle the worst. Cache Invalidation Work hard in silence, let your success be your noise. Backend Cloud Serverless DevOps
 Python Content Delivery Network The only way to do great work is to love what you do. Edge Computing Kafka I find that the harder I work, the more luck I seem to have. Replica Set Big Data
+Security Dream big and dare to fail. Latency Optimization Success usually comes to those who are too busy to be looking for it. Microservices WebSockets Monitoring Success doesn’t just find you. You have to go out and get it. Data Science Success is how high you bounce when you hit bottom. DevOps JWT Database Indexing Backend
