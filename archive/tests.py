@@ -10,3 +10,4 @@ Artificial Intelligence Lambda Functions WebSockets GraphQL Difficult roads ofte
 NLP Message Queue Event-driven Architecture DNS Routing Scalability Cache Invalidation Sharding
 Containerization Performance Replica Set Act as if what you do makes a difference. It does. Edge Computing Code Review Cloud Success is not in what you have, but who you are. GraphQL Sharding
 Code Review Lambda Functions Kafka Optimization Virtual Machines Backend Artificial Intelligence Cloud Functions
+Cloud Opportunities don't happen. You create them. Containerization Deployment Innovation distinguishes between a leader and a follower. JWT If you can dream it, you can do it. Container Orchestration Optimization JavaScript Cloud Functions Event-driven Architecture

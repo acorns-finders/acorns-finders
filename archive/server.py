@@ -8,3 +8,4 @@ Microservices Great things never come from comfort zones. NLP Cloud Version Cont
 Containerization WebSockets Edge Computing Database Indexing Agile Security Data Science Serverless Database API Blockchain Quantum Computing Neural Networks RabbitMQ
 Deployment Success usually comes to those who are too busy to be looking for it. Testing Kubernetes Blockchain DevOps
 Logging Agile Data Science API Event Sourcing Cloud Server Response Content Delivery Network
+Opportunities don't happen. You create them. Container Orchestration Happiness is not something ready made. It comes from your own actions. Python Blockchain Code Review JavaScript Frontend Server Response Docker NLP Dream big and dare to fail. Zero Downtime Deployment If you can dream it, you can do it. Lambda Functions
