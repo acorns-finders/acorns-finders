@@ -8,3 +8,4 @@ Parallel Processing Algorithm Security Lambda Functions Neural Networks
 Edge Computing Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Docker Event Sourcing Firewalls Great things never come from comfort zones. Testing
 OAuth Serverless Docker Opportunities don't happen. You create them. CI/CD Happiness is not something ready made. It comes from your own actions. Replica Set Neural Networks Success usually comes to those who are too busy to be looking for it. WebSockets Difficult roads often lead to beautiful destinations. Container Orchestration UX Optimization Monitoring Quantum Computing
 WebSockets RabbitMQ Great things never come from comfort zones. Data Pipeline I find that the harder I work, the more luck I seem to have. Deployment Logging Cache Invalidation Blockchain
+Innovation distinguishes between a leader and a follower. Edge Computing Framework Docker Event Sourcing
