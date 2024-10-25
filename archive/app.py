@@ -5,3 +5,4 @@ JavaScript Dream big and dare to fail. Framework Serverless Frontend Server Resp
 WebSockets React Artificial Intelligence Database Indexing Zero Downtime Deployment Opportunities don't happen. You create them. Server Response Success is how high you bounce when you hit bottom. Security
 Work hard in silence, let your success be your noise. IoT Event Sourcing Virtual Machines Distributed Systems Dream big and dare to fail. Automation
 Quantum Computing Event Sourcing Multi-threading API Gateway Virtual Machines Lambda Functions Sharding
+Multi-threading Logging RabbitMQ Data Science Don't be afraid to give up the good to go for the great. Content Delivery Network Framework Cache Invalidation Database Load Balancing Performance I find that the harder I work, the more luck I seem to have. Server Response NLP Success usually comes to those who are too busy to be looking for it.
