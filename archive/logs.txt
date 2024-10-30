@@ -7,3 +7,4 @@ GraphQL Docker Containerization Kubernetes Optimization
 To be the best, you must be able to handle the worst. Framework Big Data Container Orchestration Parallel Processing NLP Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Security Quantum Computing
 Container Orchestration Agile Big Data Serverless Version Control Success is how high you bounce when you hit bottom. Neural Networks
 DNS Routing Monitoring Multi-threading Parallel Processing Dream big and dare to fail. Cloud Machine Learning JWT Big Data NLP Serverless
+Performance Monitoring JWT Algorithm Server Response Distributed Systems Docker Success is how high you bounce when you hit bottom. Sharding Work hard in silence, let your success be your noise. Zero Downtime Deployment Testing Kubernetes
