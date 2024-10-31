@@ -9,3 +9,4 @@ Firewalls Success doesn’t just find you. You have to go out and get it. Python D
 Artificial Intelligence Lambda Functions WebSockets GraphQL Difficult roads often lead to beautiful destinations. Monitoring Edge Computing
 NLP Message Queue Event-driven Architecture DNS Routing Scalability Cache Invalidation Sharding
 Containerization Performance Replica Set Act as if what you do makes a difference. It does. Edge Computing Code Review Cloud Success is not in what you have, but who you are. GraphQL Sharding
+Code Review Lambda Functions Kafka Optimization Virtual Machines Backend Artificial Intelligence Cloud Functions
