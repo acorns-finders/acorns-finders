@@ -2,3 +2,4 @@ Message Queue Dream big and dare to fail. UX Optimization Edge Computing Happine
 Cloud If you can dream it, you can do it. Quantum Computing Event Sourcing Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Scalability Logging Performance
 Distributed Systems Monitoring Success is not in what you have, but who you are. Opportunities don't happen. You create them. DNS Routing Database
 Difficult roads often lead to beautiful destinations. Cloud DevOps Simplicity is the ultimate sophistication. Pull Request Framework Automation OAuth Neural Networks Content Delivery Network Load Balancing Kafka
+DNS Routing Virtual Machines Work hard in silence, let your success be your noise. API Scalability Cache Invalidation OAuth
