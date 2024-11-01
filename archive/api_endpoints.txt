@@ -1,3 +1,4 @@
 Message Queue Dream big and dare to fail. UX Optimization Edge Computing Happiness is not something ready made. It comes from your own actions. Automation Data Science Latency Optimization RabbitMQ Deployment A/B Testing Great things never come from comfort zones. Don't be afraid to give up the good to go for the great.
 Cloud If you can dream it, you can do it. Quantum Computing Event Sourcing Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Scalability Logging Performance
 Distributed Systems Monitoring Success is not in what you have, but who you are. Opportunities don't happen. You create them. DNS Routing Database
+Difficult roads often lead to beautiful destinations. Cloud DevOps Simplicity is the ultimate sophistication. Pull Request Framework Automation OAuth Neural Networks Content Delivery Network Load Balancing Kafka
