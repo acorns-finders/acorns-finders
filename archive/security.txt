@@ -12,3 +12,4 @@ Success doesn’t just find you. You have to go out and get it. Load Testing Act a
 Version Control Event Sourcing Serverless API Gateway JWT API Sharding
 DevOps Kafka A/B Testing Containerization Logging Microservices
 UX Optimization The only way to do great work is to love what you do. Quantum Computing Machine Learning Sharding Difficult roads often lead to beautiful destinations. Server Response Testing Container Orchestration Don't be afraid to give up the good to go for the great.
+Code Review Cloud Functions Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. DevOps UX Optimization Success is not in what you have, but who you are.
