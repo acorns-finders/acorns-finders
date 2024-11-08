@@ -4,3 +4,4 @@ The only way to do great work is to love what you do. Database Indexing Server R
 Cloud Functions Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Multi-threading Virtual Machines Framework Optimization CI/CD Latency Optimization
 Frontend Dream big and dare to fail. JWT Microservices Kafka Big Data Data Science
 Database Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Data Science Multi-threading Monitoring Frontend Framework Algorithm
+Logging Version Control Deployment Data Pipeline DNS Routing OAuth NLP Optimization Database Indexing Serverless
