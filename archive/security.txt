@@ -11,3 +11,4 @@ Blockchain JavaScript Great things never come from comfort zones. Virtual Machin
 Success doesn’t just find you. You have to go out and get it. Load Testing Act as if what you do makes a difference. It does. Version Control Logging Algorithm DevOps Security Do what you love and the money will follow. Work hard in silence, let your success be your noise. Python Event-driven Architecture
 Version Control Event Sourcing Serverless API Gateway JWT API Sharding
 DevOps Kafka A/B Testing Containerization Logging Microservices
+UX Optimization The only way to do great work is to love what you do. Quantum Computing Machine Learning Sharding Difficult roads often lead to beautiful destinations. Server Response Testing Container Orchestration Don't be afraid to give up the good to go for the great.
