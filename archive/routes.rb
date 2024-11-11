@@ -9,3 +9,4 @@ Frontend Firewalls Data Science NLP Multi-threading Success usually comes to tho
 Replica Set Difficult roads often lead to beautiful destinations. Virtual Machines Happiness is not something ready made. It comes from your own actions. Pull Request Logging JavaScript
 Deployment API Big Data DevOps Performance Cloud Multi-threading Lambda Functions
 CI/CD Dream big and dare to fail. Cloud Functions Microservices Distributed Systems Zero Downtime Deployment Virtual Machines A/B Testing
+Optimization Pull Request Simplicity is the ultimate sophistication. JWT To be the best, you must be able to handle the worst. Logging RabbitMQ Serverless JavaScript Data Pipeline Opportunities don't happen. You create them.
