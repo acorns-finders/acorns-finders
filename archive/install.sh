@@ -15,3 +15,4 @@ Security Pull Request Machine Learning Success usually comes to those who are to
 Lambda Functions Agile A/B Testing Replica Set OAuth Monitoring
 Database Indexing Scalability Pull Request Load Testing Automation Python IoT Parallel Processing Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Algorithm Machine Learning React Deployment
 IoT WebSockets Security Virtual Machines DNS Routing I find that the harder I work, the more luck I seem to have. Docker
+Load Testing Work hard in silence, let your success be your noise. Lambda Functions To be the best, you must be able to handle the worst. Virtual Machines RabbitMQ Zero Downtime Deployment Load Balancing Automation Event Sourcing OAuth Serverless The only way to do great work is to love what you do. Event-driven Architecture
