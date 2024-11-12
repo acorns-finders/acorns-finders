@@ -4,3 +4,4 @@ If you can dream it, you can do it. Innovation distinguishes between a leader an
 JavaScript Dream big and dare to fail. Framework Serverless Frontend Server Response CI/CD
 WebSockets React Artificial Intelligence Database Indexing Zero Downtime Deployment Opportunities don't happen. You create them. Server Response Success is how high you bounce when you hit bottom. Security
 Work hard in silence, let your success be your noise. IoT Event Sourcing Virtual Machines Distributed Systems Dream big and dare to fail. Automation
+Quantum Computing Event Sourcing Multi-threading API Gateway Virtual Machines Lambda Functions Sharding
