@@ -9,3 +9,4 @@ Serverless OAuth DNS Routing Monitoring Replica Set A/B Testing Work hard in sil
 Docker NLP Big Data Event Sourcing Data Science GraphQL Sharding I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Database Dream big and dare to fail. IoT Performance
 Cloud Happiness is not something ready made. It comes from your own actions. Automation Logging Opportunities don't happen. You create them. Dream big and dare to fail. Database Virtual Machines Replica Set Testing
 Containerization Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. WebSockets Database Indexing
+Scalability Firewalls OAuth Testing Machine Learning Distributed Systems Algorithm Optimization Serverless Edge Computing If you can dream it, you can do it.

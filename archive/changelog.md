@@ -10,3 +10,4 @@ OAuth Work hard in silence, let your success be your noise. Simplicity is the ul
 DevOps To be the best, you must be able to handle the worst. IoT I find that the harder I work, the more luck I seem to have. Lambda Functions Work hard in silence, let your success be your noise. API
 Pull Request Quantum Computing Python Virtual Machines Multi-threading Database Indexing Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication.
 Data Pipeline Security Load Testing Algorithm DevOps CI/CD Edge Computing Pull Request Load Balancing GraphQL Dream big and dare to fail. Python
+Act as if what you do makes a difference. It does. Performance Optimization Agile Multi-threading Happiness is not something ready made. It comes from your own actions. DNS Routing If you can dream it, you can do it. Code Review A/B Testing Security Microservices Lambda Functions Latency Optimization Deployment
