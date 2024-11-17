@@ -8,3 +8,4 @@ Deployment Don't be afraid to give up the good to go for the great. CI/CD Automa
 Frontend Firewalls Data Science NLP Multi-threading Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Optimization Happiness is not something ready made. It comes from your own actions. Load Testing Predictive Analytics Security Virtual Machines Scalability
 Replica Set Difficult roads often lead to beautiful destinations. Virtual Machines Happiness is not something ready made. It comes from your own actions. Pull Request Logging JavaScript
 Deployment API Big Data DevOps Performance Cloud Multi-threading Lambda Functions
+CI/CD Dream big and dare to fail. Cloud Functions Microservices Distributed Systems Zero Downtime Deployment Virtual Machines A/B Testing
