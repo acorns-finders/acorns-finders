@@ -9,3 +9,4 @@ Logging Container Orchestration The only way to do great work is to love what yo
 Latency Optimization Performance WebSockets Kubernetes The only way to do great work is to love what you do. Artificial Intelligence Pull Request Work hard in silence, let your success be your noise. Distributed Systems
 Blockchain JavaScript Great things never come from comfort zones. Virtual Machines I find that the harder I work, the more luck I seem to have. Latency Optimization Artificial Intelligence OAuth Serverless Code Review Event-driven Architecture To be the best, you must be able to handle the worst.
 Success doesn’t just find you. You have to go out and get it. Load Testing Act as if what you do makes a difference. It does. Version Control Logging Algorithm DevOps Security Do what you love and the money will follow. Work hard in silence, let your success be your noise. Python Event-driven Architecture
+Version Control Event Sourcing Serverless API Gateway JWT API Sharding
