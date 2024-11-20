@@ -5,3 +5,4 @@ Success is not in what you have, but who you are. Container Orchestration I find
 Success usually comes to those who are too busy to be looking for it. API Data Science GraphQL Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom.
 GraphQL Docker Containerization Kubernetes Optimization
 To be the best, you must be able to handle the worst. Framework Big Data Container Orchestration Parallel Processing NLP Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Security Quantum Computing
+Container Orchestration Agile Big Data Serverless Version Control Success is how high you bounce when you hit bottom. Neural Networks
