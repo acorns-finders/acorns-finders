@@ -7,3 +7,4 @@ A/B Testing Microservices Kubernetes Logging DevOps Agile Lambda Functions Datab
 Kubernetes Do what you love and the money will follow. Great things never come from comfort zones. Testing Zero Downtime Deployment Distributed Systems Docker A/B Testing Cache Invalidation Dream big and dare to fail. Multi-threading Replica Set Containerization
 Firewalls Success doesn’t just find you. You have to go out and get it. Python Do what you love and the money will follow. Neural Networks Kubernetes JWT Work hard in silence, let your success be your noise. Predictive Analytics Security Zero Downtime Deployment NLP
 Artificial Intelligence Lambda Functions WebSockets GraphQL Difficult roads often lead to beautiful destinations. Monitoring Edge Computing
+NLP Message Queue Event-driven Architecture DNS Routing Scalability Cache Invalidation Sharding
