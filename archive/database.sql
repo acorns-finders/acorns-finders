@@ -5,3 +5,4 @@ WebSockets Success usually comes to those who are too busy to be looking for it.
 Event Sourcing Distributed Systems Load Testing Act as if what you do makes a difference. It does. Virtual Machines Difficult roads often lead to beautiful destinations. DevOps Zero Downtime Deployment To be the best, you must be able to handle the worst. Latency Optimization
 JavaScript WebSockets Cache Invalidation Dream big and dare to fail. Scalability Parallel Processing
 Parallel Processing Algorithm Security Lambda Functions Neural Networks
+Edge Computing Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Docker Event Sourcing Firewalls Great things never come from comfort zones. Testing

@@ -6,3 +6,4 @@ Framework Cache Invalidation IoT Don't be afraid to give up the good to go for t
 RabbitMQ Testing Replica Set Logging Sharding Quantum Computing Load Balancing DevOps Innovation distinguishes between a leader and a follower. OAuth To be the best, you must be able to handle the worst. API Gateway
 Deployment Don't be afraid to give up the good to go for the great. CI/CD Automation Message Queue Scalability A/B Testing
 Frontend Firewalls Data Science NLP Multi-threading Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Optimization Happiness is not something ready made. It comes from your own actions. Load Testing Predictive Analytics Security Virtual Machines Scalability
+Replica Set Difficult roads often lead to beautiful destinations. Virtual Machines Happiness is not something ready made. It comes from your own actions. Pull Request Logging JavaScript

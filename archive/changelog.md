@@ -5,3 +5,4 @@ Dream big and dare to fail. Content Delivery Network Algorithm Distributed Syste
 JavaScript Predictive Analytics Database I find that the harder I work, the more luck I seem to have. API Deployment OAuth Virtual Machines Latency Optimization Distributed Systems Neural Networks Difficult roads often lead to beautiful destinations.
 Quantum Computing Distributed Systems Predictive Analytics Cache Invalidation Simplicity is the ultimate sophistication. Code Review RabbitMQ
 Act as if what you do makes a difference. It does. A/B Testing Backend Work hard in silence, let your success be your noise. Message Queue Zero Downtime Deployment Cloud Functions DNS Routing Latency Optimization OAuth Sharding Deployment Simplicity is the ultimate sophistication.
+To be the best, you must be able to handle the worst. Edge Computing Scalability Load Testing Sharding
