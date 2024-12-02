@@ -6,3 +6,4 @@ Testing Neural Networks Difficult roads often lead to beautiful destinations. Au
 Stay hungry, stay foolish. Logging React Container Orchestration Predictive Analytics NLP Monitoring Python
 Big Data RabbitMQ Don't be afraid to give up the good to go for the great. Event Sourcing Opportunities don't happen. You create them. GraphQL Kubernetes Replica Set Optimization Scalability OAuth Deployment Microservices
 Serverless OAuth DNS Routing Monitoring Replica Set A/B Testing Work hard in silence, let your success be your noise.
+Docker NLP Big Data Event Sourcing Data Science GraphQL Sharding I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Database Dream big and dare to fail. IoT Performance
