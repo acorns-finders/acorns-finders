@@ -10,3 +10,4 @@ Monitoring Automation Stay hungry, stay foolish. Event-driven Architecture Data 
 A/B Testing Predictive Analytics Event Sourcing Load Testing Deployment Innovation distinguishes between a leader and a follower. Cloud
 Data Science Kubernetes Success is not in what you have, but who you are. Cloud Distributed Systems Event-driven Architecture Frontend Server Response Zero Downtime Deployment Cloud Functions A/B Testing
 Container Orchestration Kafka Server Response Automation Content Delivery Network Logging A/B Testing DNS Routing OAuth Scalability
+Replica Set Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Framework Load Testing CI/CD The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. API Gateway
