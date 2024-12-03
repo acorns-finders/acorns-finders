@@ -7,3 +7,4 @@ Docker API Multi-threading Act as if what you do makes a difference. It does. La
 Blockchain API Simplicity is the ultimate sophistication. Security UX Optimization Algorithm WebSockets Cache Invalidation Version Control Data Pipeline Innovation distinguishes between a leader and a follower. GraphQL
 Blockchain Predictive Analytics DNS Routing Cache Invalidation Backend Algorithm Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Event-driven Architecture Artificial Intelligence Kafka Microservices Server Response
 Parallel Processing Pull Request Database Indexing Lambda Functions DNS Routing GraphQL RabbitMQ Firewalls API Gateway Backend UX Optimization Automation Machine Learning Do what you love and the money will follow. Version Control
+Latency Optimization DNS Routing Testing Container Orchestration API Server Response
