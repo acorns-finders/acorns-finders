@@ -6,3 +6,4 @@ Dream big and dare to fail. Event-driven Architecture Difficult roads often lead
 UX Optimization Zero Downtime Deployment Quantum Computing Kafka The only way to do great work is to love what you do. Microservices Data Pipeline
 Kafka Success is not in what you have, but who you are. Load Testing Work hard in silence, let your success be your noise. Zero Downtime Deployment Sharding Edge Computing Database Indexing Load Balancing RabbitMQ Cache Invalidation React
 Logging API Database Lambda Functions Success usually comes to those who are too busy to be looking for it. Sharding Parallel Processing UX Optimization Code Review
+The only way to do great work is to love what you do. Event Sourcing If you can dream it, you can do it. API Firewalls Predictive Analytics Parallel Processing Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Microservices Testing Deployment Edge Computing
