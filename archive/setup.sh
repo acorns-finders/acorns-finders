@@ -5,3 +5,4 @@ Success usually comes to those who are too busy to be looking for it. Cache Inva
 Dream big and dare to fail. Event-driven Architecture Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Kafka UX Optimization Docker JavaScript API Gateway Data Pipeline Frontend Cloud Functions Code Review Security Load Balancing
 UX Optimization Zero Downtime Deployment Quantum Computing Kafka The only way to do great work is to love what you do. Microservices Data Pipeline
 Kafka Success is not in what you have, but who you are. Load Testing Work hard in silence, let your success be your noise. Zero Downtime Deployment Sharding Edge Computing Database Indexing Load Balancing RabbitMQ Cache Invalidation React
+Logging API Database Lambda Functions Success usually comes to those who are too busy to be looking for it. Sharding Parallel Processing UX Optimization Code Review
