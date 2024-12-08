@@ -6,3 +6,4 @@ API Gateway Big Data Blockchain Performance Cloud Edge Computing
 Success is not in what you have, but who you are. OAuth Opportunities don't happen. You create them. Message Queue Stay hungry, stay foolish. The only way to do great work is to love what you do.
 RabbitMQ Frontend Data Pipeline Performance Dream big and dare to fail. Docker Great things never come from comfort zones.
 Kafka Lambda Functions JavaScript Database Indexing Neural Networks To be the best, you must be able to handle the worst. Cache Invalidation Work hard in silence, let your success be your noise. Backend Cloud Serverless DevOps
+Python Content Delivery Network The only way to do great work is to love what you do. Edge Computing Kafka I find that the harder I work, the more luck I seem to have. Replica Set Big Data
