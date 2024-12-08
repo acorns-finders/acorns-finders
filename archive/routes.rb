@@ -4,3 +4,4 @@ Data Pipeline Work hard in silence, let your success be your noise. Success is n
 I find that the harder I work, the more luck I seem to have. Algorithm Machine Learning Load Balancing Cloud Functions Code Review Sharding
 Framework Cache Invalidation IoT Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Parallel Processing Event-driven Architecture Load Testing RabbitMQ Performance Python Content Delivery Network
 RabbitMQ Testing Replica Set Logging Sharding Quantum Computing Load Balancing DevOps Innovation distinguishes between a leader and a follower. OAuth To be the best, you must be able to handle the worst. API Gateway
+Deployment Don't be afraid to give up the good to go for the great. CI/CD Automation Message Queue Scalability A/B Testing
