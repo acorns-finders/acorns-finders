@@ -3,3 +3,4 @@ Predictive Analytics DNS Routing OAuth Success is how high you bounce when you h
 RabbitMQ Data Science NLP JWT Security Data Pipeline Microservices Lambda Functions
 WebSockets Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. IoT Parallel Processing Agile Blockchain RabbitMQ Code Review Great things never come from comfort zones. Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Backend Python CI/CD
 Event Sourcing Distributed Systems Load Testing Act as if what you do makes a difference. It does. Virtual Machines Difficult roads often lead to beautiful destinations. DevOps Zero Downtime Deployment To be the best, you must be able to handle the worst. Latency Optimization
+JavaScript WebSockets Cache Invalidation Dream big and dare to fail. Scalability Parallel Processing
