@@ -7,3 +7,4 @@ Do what you love and the money will follow. Deployment Event-driven Architecture
 Parallel Processing Difficult roads often lead to beautiful destinations. Backend Version Control Scalability Frontend Kafka API Work hard in silence, let your success be your noise. Big Data Dream big and dare to fail. IoT OAuth Deployment WebSockets
 Monitoring Firewalls To be the best, you must be able to handle the worst. Parallel Processing Artificial Intelligence Machine Learning The only way to do great work is to love what you do. Simplicity is the ultimate sophistication.
 Monitoring Automation Stay hungry, stay foolish. Event-driven Architecture Data Pipeline Dream big and dare to fail. API Gateway OAuth Version Control
+A/B Testing Predictive Analytics Event Sourcing Load Testing Deployment Innovation distinguishes between a leader and a follower. Cloud
