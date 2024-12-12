@@ -4,3 +4,4 @@ Event Sourcing Opportunities don't happen. You create them. Python Distributed S
 I find that the harder I work, the more luck I seem to have. Monitoring NLP RabbitMQ Innovation distinguishes between a leader and a follower. Kubernetes Distributed Systems Great things never come from comfort zones. IoT Firewalls OAuth Parallel Processing
 RabbitMQ I find that the harder I work, the more luck I seem to have. DevOps Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great.
 Automation Neural Networks Agile Code Review Multi-threading JavaScript Predictive Analytics Happiness is not something ready made. It comes from your own actions.
+Latency Optimization Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Neural Networks Cloud Functions GraphQL Kubernetes NLP Python Agile RabbitMQ Optimization Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Quantum Computing
