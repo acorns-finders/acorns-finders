@@ -4,3 +4,4 @@ Difficult roads often lead to beautiful destinations. Message Queue Kubernetes S
 Automation Logging Work hard in silence, let your success be your noise. WebSockets Distributed Systems
 Do what you love and the money will follow. Microservices Virtual Machines A/B Testing Predictive Analytics To be the best, you must be able to handle the worst. Kafka
 Do what you love and the money will follow. Deployment Event-driven Architecture Zero Downtime Deployment Optimization GraphQL Work hard in silence, let your success be your noise.
+Parallel Processing Difficult roads often lead to beautiful destinations. Backend Version Control Scalability Frontend Kafka API Work hard in silence, let your success be your noise. Big Data Dream big and dare to fail. IoT OAuth Deployment WebSockets
