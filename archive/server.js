@@ -4,3 +4,4 @@ Version Control Machine Learning React Python Success is not in what you have, b
 Deployment Container Orchestration Server Response Scalability Stay hungry, stay foolish. If you can dream it, you can do it. Agile
 Scalability Cloud Content Delivery Network Event-driven Architecture Framework Version Control Data Science RabbitMQ Backend UX Optimization Happiness is not something ready made. It comes from your own actions. Artificial Intelligence
 Docker API Multi-threading Act as if what you do makes a difference. It does. Lambda Functions Data Science JWT Agile Database GraphQL Blockchain Do what you love and the money will follow. If you can dream it, you can do it.
+Blockchain API Simplicity is the ultimate sophistication. Security UX Optimization Algorithm WebSockets Cache Invalidation Version Control Data Pipeline Innovation distinguishes between a leader and a follower. GraphQL

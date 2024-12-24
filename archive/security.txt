@@ -3,3 +3,4 @@ Cloud JavaScript Act as if what you do makes a difference. It does. DNS Routing 
 Parallel Processing Virtual Machines API Gateway Machine Learning Containerization Latency Optimization
 RabbitMQ Act as if what you do makes a difference. It does. Logging Big Data JavaScript
 DNS Routing Agile The only way to do great work is to love what you do. GraphQL Data Pipeline Security RabbitMQ Framework
+Edge Computing DNS Routing Blockchain CI/CD Data Pipeline RabbitMQ NLP Distributed Systems Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Parallel Processing Cloud Kafka
