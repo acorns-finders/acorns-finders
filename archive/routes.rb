@@ -2,3 +2,4 @@ Message Queue Machine Learning Event-driven Architecture To be the best, you mus
 WebSockets Kubernetes Framework Pull Request Sharding Agile API Gateway Replica Set Deployment Event-driven Architecture
 Data Pipeline Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Virtual Machines Dream big and dare to fail. Load Testing Simplicity is the ultimate sophistication. Distributed Systems Quantum Computing NLP Opportunities don't happen. You create them.
 I find that the harder I work, the more luck I seem to have. Algorithm Machine Learning Load Balancing Cloud Functions Code Review Sharding
+Framework Cache Invalidation IoT Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Parallel Processing Event-driven Architecture Load Testing RabbitMQ Performance Python Content Delivery Network
