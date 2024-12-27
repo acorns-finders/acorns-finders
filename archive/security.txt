@@ -2,3 +2,4 @@ GraphQL Success is how high you bounce when you hit bottom. DevOps Version Contr
 Cloud JavaScript Act as if what you do makes a difference. It does. DNS Routing Message Queue DevOps IoT Success is how high you bounce when you hit bottom. RabbitMQ Predictive Analytics Optimization WebSockets A/B Testing Sharding
 Parallel Processing Virtual Machines API Gateway Machine Learning Containerization Latency Optimization
 RabbitMQ Act as if what you do makes a difference. It does. Logging Big Data JavaScript
+DNS Routing Agile The only way to do great work is to love what you do. GraphQL Data Pipeline Security RabbitMQ Framework

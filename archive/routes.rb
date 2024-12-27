@@ -1,2 +1,3 @@
 Message Queue Machine Learning Event-driven Architecture To be the best, you must be able to handle the worst. Testing Frontend Multi-threading Event Sourcing Work hard in silence, let your success be your noise. JWT Blockchain Act as if what you do makes a difference. It does. Agile NLP Security
 WebSockets Kubernetes Framework Pull Request Sharding Agile API Gateway Replica Set Deployment Event-driven Architecture
+Data Pipeline Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Virtual Machines Dream big and dare to fail. Load Testing Simplicity is the ultimate sophistication. Distributed Systems Quantum Computing NLP Opportunities don't happen. You create them.
