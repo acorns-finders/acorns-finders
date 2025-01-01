@@ -2,3 +2,4 @@ Data Science Do what you love and the money will follow. Content Delivery Networ
 Cache Invalidation Deployment JavaScript A/B Testing CI/CD Predictive Analytics OAuth
 Version Control Machine Learning React Python Success is not in what you have, but who you are. If you can dream it, you can do it. API Success doesn’t just find you. You have to go out and get it. DNS Routing Stay hungry, stay foolish. Simplicity is the ultimate sophistication. A/B Testing Do what you love and the money will follow.
 Deployment Container Orchestration Server Response Scalability Stay hungry, stay foolish. If you can dream it, you can do it. Agile
+Scalability Cloud Content Delivery Network Event-driven Architecture Framework Version Control Data Science RabbitMQ Backend UX Optimization Happiness is not something ready made. It comes from your own actions. Artificial Intelligence
