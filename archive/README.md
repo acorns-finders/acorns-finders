@@ -1,1 +1,2 @@
 Logging Testing Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Pull Request Virtual Machines To be the best, you must be able to handle the worst. If you can dream it, you can do it. Kafka Performance DevOps UX Optimization
+Dream big and dare to fail. Predictive Analytics Data Pipeline Kafka Optimization Simplicity is the ultimate sophistication. Database API Containerization
