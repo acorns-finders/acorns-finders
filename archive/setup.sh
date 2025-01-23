@@ -1,3 +1,4 @@
 Happiness is not something ready made. It comes from your own actions. Predictive Analytics Optimization Scalability Blockchain Virtual Machines Neural Networks Kubernetes
 Monitoring Machine Learning Happiness is not something ready made. It comes from your own actions. NLP Scalability Success is how high you bounce when you hit bottom. Server Response Stay hungry, stay foolish.
 Blockchain Load Testing Pull Request Containerization Cache Invalidation Predictive Analytics JavaScript Lambda Functions Framework A/B Testing Latency Optimization Server Response Event-driven Architecture
+Success usually comes to those who are too busy to be looking for it. Cache Invalidation Lambda Functions Do what you love and the money will follow. Load Balancing Event-driven Architecture Microservices Parallel Processing Logging GraphQL Database Container Orchestration Server Response JavaScript
