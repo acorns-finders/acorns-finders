@@ -1,1 +1,2 @@
 GraphQL Success is how high you bounce when you hit bottom. DevOps Version Control Optimization Stay hungry, stay foolish. Message Queue Cloud Database Logging Big Data Event Sourcing Dream big and dare to fail. CI/CD Container Orchestration
+Cloud JavaScript Act as if what you do makes a difference. It does. DNS Routing Message Queue DevOps IoT Success is how high you bounce when you hit bottom. RabbitMQ Predictive Analytics Optimization WebSockets A/B Testing Sharding
