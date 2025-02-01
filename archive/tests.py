@@ -1,0 +1,1 @@
+Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Serverless WebSockets Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Event-driven Architecture Python
