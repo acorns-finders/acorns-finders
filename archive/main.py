@@ -1,1 +1,2 @@
 Firewalls Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Cloud Act as if what you do makes a difference. It does. Python Simplicity is the ultimate sophistication. OAuth Containerization DevOps Framework
+Docker Testing Monitoring Database Event Sourcing Frontend Replica Set Don't be afraid to give up the good to go for the great. Database Indexing Predictive Analytics WebSockets IoT React Code Review
