@@ -1,0 +1,1 @@
+Firewalls Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Cloud Act as if what you do makes a difference. It does. Python Simplicity is the ultimate sophistication. OAuth Containerization DevOps Framework
